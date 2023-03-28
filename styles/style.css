@@ -20,3 +20,9 @@ a {
     letter-spacing: 1px;
     margin: 10px 80px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
