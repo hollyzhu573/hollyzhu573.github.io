@@ -19,6 +19,7 @@ a {
     line-height: 2;
     letter-spacing: 1px;
     margin: 30px 80px;
+    color: black;
 }
 
 ul {
@@ -41,6 +42,6 @@ li a {
     color: black;
 }
 
-li a:visited {
+a:visited {
     color: black;
 }
