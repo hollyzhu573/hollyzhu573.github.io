@@ -25,6 +25,7 @@ ul {
     margin: 0;
     padding: 0;
     background-color: rgb(200, 200, 200);
+    text-align: center;
 }
 
 li {
