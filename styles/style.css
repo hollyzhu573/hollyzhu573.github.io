@@ -40,7 +40,7 @@ nav li {
     float: left;
 }
   
-li a {
+nav a {
     display: block;
     text-align: center;
     padding: 5px 16px;
