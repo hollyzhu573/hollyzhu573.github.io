@@ -30,7 +30,13 @@ nav ul {
     background-color: #e6e6e6;
 }
 
-li {
+aside ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #e6e6e6;
+}
+
+nav li {
     float: left;
 }
   
