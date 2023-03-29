@@ -30,12 +30,6 @@ nav ul {
     background-color: #e6e6e6;
 }
 
-aside ul {
-    list-style-type: none;
-    overflow: hidden;
-    background-color: #e6e6e6;
-}
-
 nav li {
     float: left;
 }
@@ -50,4 +44,15 @@ nav a {
 
 a:visited {
     color: black;
+}
+
+.sidebar {
+    width: 160px;
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #e6e6e6;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
 }
