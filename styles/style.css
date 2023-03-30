@@ -46,6 +46,10 @@ a:visited {
     color: black;
 }
 
+.body-text {
+    margin-left: 120px;
+}
+
 .sidebar {
     list-style-type: none;
     width: 160px;
