@@ -55,8 +55,8 @@ a:visited {
     width: 150px;
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
-    top: 375px;
-    left: 40px;
+    top: 360px;
+    left: 60px;
     background-color: #e6e6e6;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px; 
