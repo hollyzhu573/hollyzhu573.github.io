@@ -47,7 +47,8 @@ a:visited {
 }
 
 .body-text {
-    margin-left: 300px;
+    margin-left: 250px;
+    padding-top: 30px;
 }
 
 .sidebar {
