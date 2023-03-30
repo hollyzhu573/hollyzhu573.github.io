@@ -53,7 +53,7 @@ a:visited {
 
 .sidebar {
     list-style-type: none;
-    width: 150px;
+    /*width: 200px;*/
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 360px;
