@@ -66,12 +66,12 @@ a:visited {
 .sidebar div {
     padding: 20px 10px;
     /*text-decoration: none;*/
-    font-size: 8px;
+    /*font-size: 8px;*/
     /*color: black;*/
     display: block;
 }
 
-/*.sidebar a {
-    font-size: 10px;
-}*/
+.sidebar a {
+    font-size: 8px;
+}
 
