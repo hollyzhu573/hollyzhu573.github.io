@@ -74,5 +74,6 @@ a:visited {
 .sidebar a {
     padding: auto auto;
     font-size: 15px;
+    margin-left: 70px;
 }
 
