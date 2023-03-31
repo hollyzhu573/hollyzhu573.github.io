@@ -71,3 +71,7 @@ a:visited {
     display: block;
 }
 
+.sidebar a {
+    font-size: 10px;
+}
+
