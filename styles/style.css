@@ -72,7 +72,8 @@ a:visited {
     display: block;
 }
 
-.sidebar div {
+.sidebar a {
+    padding: auto 0px;
     font-size: 10px;
 }
 
