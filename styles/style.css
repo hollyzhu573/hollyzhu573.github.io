@@ -73,7 +73,7 @@ a:visited {
 }
 
 .sidebar a {
-    padding: auto 0px;
+    padding: auto auto;
     font-size: 10px;
 }
 
