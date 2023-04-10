@@ -81,4 +81,8 @@ a:visited {
     margin-left: 10px;
 }
 
+hr.solid {
+    border-top: 3px solid #000000;
+}
+
 
