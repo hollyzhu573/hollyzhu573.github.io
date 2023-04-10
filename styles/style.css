@@ -13,7 +13,7 @@ h1 {
 
 h2 {
     font-size: 30px;
-    margin: 20px 80px;
+    margin: 30px 80px;
 }
 
 h3 {
@@ -107,8 +107,4 @@ img {
 .text {
     font-size: 60px;
     padding-left: 30px;
-}
-
-article h2 {
-    margin-top: 20px;
 }
