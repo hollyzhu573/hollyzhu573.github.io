@@ -14,7 +14,7 @@ h1 {
 h2 {
     font-size: 30px;
     margin: 30px 80px;
-    padding-top: 10px;
+    padding-top: 8px;
 }
 
 h3 {
@@ -95,7 +95,7 @@ hr.solid {
 .container {
     display: grid;
     align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     column-gap: 5px;
 }
    
