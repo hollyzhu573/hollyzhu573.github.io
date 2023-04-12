@@ -100,11 +100,9 @@ hr.solid {
     margin-bottom: 8px;
 }
 
-.two-images {
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr;
-    column-gap: 5px;
+.two-images image {
+    max-height: 60%;
+    max-width: 60%;
 }
    
 img {
