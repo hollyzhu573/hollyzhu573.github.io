@@ -97,6 +97,7 @@ hr.solid {
     align-items: center; 
     grid-template-columns: 1fr 2fr;
     column-gap: 5px;
+    margin-bottom: 8px;
 }
 
 .two-images {
