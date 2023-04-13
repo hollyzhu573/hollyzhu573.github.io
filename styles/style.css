@@ -100,9 +100,15 @@ hr.solid {
     margin-bottom: 8px;
 }
 
-.two-images img {
-    max-height: 40%;
-    max-width: 40%;
+.image {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.image img {
+    width: 100%;
 }
    
 img {
